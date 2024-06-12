@@ -15,7 +15,7 @@ Basic Dashboard built with nextjs
 - Partial Prerendering
 - Search and Pagination 
 - Mutating Data 
-- Handeling Errors
+- Handling Errors
 - Accessibility 
 - Authentication 
 - Metadata
